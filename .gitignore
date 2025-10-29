@@ -1,0 +1,74 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js
+.next/
+.turbo/
+out/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# System files
+AppData/
+Dropbox/
+OneDrive/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+Favorites/
+Google Drive/
+IntelGraphicsProfiles/
+Links/
+MicrosoftEdgeBackups/
+Saved Games/
+Searches/
+Contacts/
+Creative Cloud Files/
+3D Objects/
+
+# Temporary files
+*.tmp
+*.log
+*.lnk
+*.dat
+*.blf
+*.regtrans-ms
+*.LOG*
+*.jtx
+*.ini
+*.psd
+*.html
+*.docx
+*.xlsx
+
+# Build outputs
+dist/
+build/
